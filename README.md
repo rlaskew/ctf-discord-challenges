@@ -11,13 +11,13 @@ I noticed lots of people in discord (including me) struggle or spend more time t
 Including each tip below and the CTF rules. 
 
 ## Tip: Use ChatGPT
-Remember to use ChatGPT or similar for tips and tricks
+Remember to use ChatGPT or similar for tips and tricks not covered here
 
 ## Tip: Check the Rules -- sometimes the CTFs have multiple flag formats 
 for example, one CTF I played in multiple flag formats:   ABCD{real_flag} and ACBD{different_real_flag}
 
 ## Tip: Make sure to read the FULL Discord Channel Descriptions 
-Sometimes the only way to get the full text of the description is to browse the channel and see the dialog when you hover over the description at the top of the page
+Sometimes the only way to get the full text of the description is to browse the channel and see the dialog when you hover over the description at the top of the pages as a TOOLTIP !! 
 
 ## Tip: Try leaving the discord server and rejoining
 Sometimes you'll see something you had not noticed previously
