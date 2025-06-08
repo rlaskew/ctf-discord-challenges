@@ -1,6 +1,7 @@
 # ctf-discord-challenges
 A set of tips and tricks for solving 'Join our Discord' challenges in CTFs
 
+
 ## Why did you make this page?
 I noticed lots of people in discord (including me) struggle or spend more time then necessary on these challenges, and there is a github or other guide for every other type of challenge/tool/technique in cybersecurity. 
 
@@ -13,7 +14,10 @@ Including each tip below and the CTF rules.
 ## Tip: Use ChatGPT
 Remember to use ChatGPT or similar for tips and tricks not covered here
 
-## Tip: Check the Rules -- sometimes the CTFs have multiple flag formats 
+## Tip: Check the Rules, then check them again on Discord
+Frequently rules are posted on the web, then again on Discord, frequently worth another look.
+
+## Tip: Check the Rules Again -- sometimes the CTFs have multiple flag formats 
 for example, one CTF I played in multiple flag formats:   ABCD{real_flag} and ACBD{different_real_flag}
 
 ## Tip: Make sure to read the FULL Discord Channel Descriptions 
