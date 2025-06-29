@@ -26,6 +26,10 @@ Sometimes the only way to get the full text of the description is to browse the 
 ## Tip: Try leaving the discord server and rejoining
 Sometimes you'll see something you had not noticed previously
 
+## Tip: Try a bot command .. look around for hints of commands to try
+You might see commands like /do-something-secret
+
+
 ### TODO: Text to incorporate
 Common Places to Search in Discord for Flags
 1. Pinned Messages
